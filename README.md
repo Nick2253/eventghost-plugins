@@ -1,2 +1,2 @@
-# eventghost.plugins
+# eventghost-plugins
 Plugins for EventGhost
